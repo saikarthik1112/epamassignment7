@@ -1,0 +1,10 @@
+Êþº¾   3 -  7saikarthikStructural/NamesCollection$IterateNamesCollection  java/lang/Object  saikarthikStructural/IteratorDemo i I this$0 "LsaikarthikStructural/NamesCollection; <init> %(LsaikarthikStructural/NamesCollection;)V Code	   	 
+
+     ()V LineNumberTable LocalVariableTable this 9LsaikarthikStructural/NamesCollection$IterateNamesCollection; hasNext ()Z	    	     saikarthikStructural/NamesCollection    name [Ljava/lang/String; StackMapTable next ()Ljava/lang/Object;
+  %   ^(LsaikarthikStructural/NamesCollection;LsaikarthikStructural/NamesCollection$IterateNamesCollection;)V
+  (   
+SourceFile Iterator.java InnerClasses IterateNamesCollection              	 
+           4     
+*+µ *· ±                   
+            N     *´ *´ ´ ¾¢ ¬¬                            !      " #     X     *¶ $™ *´ ´ *Y´ Z`µ 2°°           "  #  %             !       &     &     *+· '±                   )    * +   
+    , 

@@ -1,0 +1,14 @@
+Êþº¾   3   saikarthikBehavioural/BirdAdapter  java/lang/Object  saikarthikBehavioural/Duck bird LsaikarthikBehavioural/Bird; <init> ()V Code
+   	 
+ LineNumberTable LocalVariableTable this LsaikarthikBehavioural/BirdAdapter; (LsaikarthikBehavioural/Bird;)V	     squeak    saikarthikBehavioural/Bird  
+ 	makeSound 
+SourceFile Adapter.java                	 
+     3     *· ±       
+    !  #              	      F     
+*· *+µ ±           %  & 	 '        
+       
+      
+     8     
+*´ ¹  ±       
+    + 	 ,        
+          

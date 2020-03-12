@@ -1,0 +1,6 @@
+Êþº¾   3 !  saikarthikStructural/Produce  java/lang/Object  saikarthikStructural/Workshop <init> ()V Code
+     LineNumberTable LocalVariableTable this LsaikarthikStructural/Produce; work	    java/lang/System   out Ljava/io/PrintStream;  Produced
+    java/io/PrintStream   print (Ljava/lang/String;)V 
+SourceFile Bridge_Pattern.java               	   /     *· 
+±           5                 	   7     	² ¶ ±       
+    8  9        	           

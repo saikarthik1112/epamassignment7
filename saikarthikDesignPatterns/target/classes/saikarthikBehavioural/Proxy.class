@@ -1,0 +1,9 @@
+Êþº¾   3 "  saikarthikBehavioural/Proxy  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this LsaikarthikBehavioural/Proxy; main ([Ljava/lang/String;)V   saikarthikBehavioural/ProxyNetAccess  saikarthik
+     (Ljava/lang/String;)V    !saikarthikBehavioural/OfficeNetAccess   grantNetAccess args [Ljava/lang/String; officeNetAccess #LsaikarthikBehavioural/OfficeNetAccess; 
+SourceFile 
+Proxy.java !               /     *· ±    
+       *             	       M     » Y· L+¹  ±    
+       , 
+ -  .             
+           !

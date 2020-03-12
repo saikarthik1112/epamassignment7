@@ -1,0 +1,11 @@
+Êþº¾   3 H  saikarthikStructural/Iterator  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this LsaikarthikStructural/Iterator; main ([Ljava/lang/String;)V   saikarthikStructural/NamesCollection
+  	
+     getIterator !()LsaikarthikStructural/IteratorDemo;    saikarthikStructural/IteratorDemo   next ()Ljava/lang/Object;  java/lang/String	   " ! java/lang/System # $ out Ljava/io/PrintStream; & java/lang/StringBuilder ( NAME : 
+ % *  + (Ljava/lang/String;)V
+ % - . / append -(Ljava/lang/String;)Ljava/lang/StringBuilder;
+ % 1 2 3 toString ()Ljava/lang/String;
+ 5 7 6 java/io/PrintStream 8 + println  : ; < hasNext ()Z args [Ljava/lang/String; cmpnyRepository "LsaikarthikStructural/NamesCollection; iter LsaikarthikStructural/IteratorDemo; name Ljava/lang/String; StackMapTable 
+SourceFile Iterator.java !               /     *· ±    
+       )             	       ¨     :» Y· L+¶ M§ #,¹  À N² » %Y'· )-¶ ,¶ 0¶ 4,¹ 9 šÿÚ±    
+       +  -  .  / 0 - 9 1    *    : = >    2 ? @   , A B    C D  E    ý     F    G
